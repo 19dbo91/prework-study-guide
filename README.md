@@ -2,13 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The objective of this project is to provide a place to store useful information on coding and its best practices.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+This project involves a single-page of multiple cards that will have key takeaways and routines that will guide future webapp projects.
+This project will include quick reference links from the modules to ease accessing external sources.
 
 
 ## Installation
